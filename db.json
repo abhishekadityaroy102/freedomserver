@@ -1,0 +1,18 @@
+{
+    "users":[
+        {
+            "name":"abhishek ",
+            "age":23,
+            "gender":"male",
+            "country":"India",
+            "profession":"student"
+        },
+        {
+            "name":"soni ",
+            "age":23,
+            "gender":"female",
+            "country":"India",
+            "profession":"employed"
+        }
+    ]
+}
